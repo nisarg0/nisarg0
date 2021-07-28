@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nisarg</h1>
 <h3 align="center">I'm a passionate final year student from VNIT, Nagpur.</h3>
-<h3 align="center"><a href = "https://github.com/nisarg0/Resume/blob/main/Nisarg%20Resume.pdf">My Resume</a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/60577767/127386445-e8d552de-5864-4e19-b404-eb64315761c6.png" alt="PDF" width="24" height="24"/> </a> </h3>
+<h3 align="center"><a href="https://www.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/60577767/127386445-e8d552de-5864-4e19-b404-eb64315761c6.png" alt="PDF" width="24" height="24"/> </a> <a href = "https://github.com/nisarg0/Resume/blob/main/Nisarg%20Resume.pdf">My Resume</a> </h3>
 
 
 
