@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nisarg</h1>
 <h3 align="center">I'm a passionate final year student from VNIT, Nagpur.</h3>
-<h3 align="center"><a href="https://github.com/nisarg0/Resume/blob/main/Nisarg%20Resume.pdf" target="_blank"> <img src="https://user-images.githubusercontent.com/60577767/127387325-5d33a42c-379b-402c-af71-1fc329b8bb0f.png" alt="PDF" width="24" height="24"/> </a> My Resume </h3>
+<h3 align="center"><a href="https://github.com/nisarg0/Resume/blob/main/Nisarg%20Resume.pdf" target="_blank"> <img src="https://user-images.githubusercontent.com/60577767/127387325-5d33a42c-379b-402c-af71-1fc329b8bb0f.png" alt="PDF" width="36" height="36"/> </a> My Resume </h3>
 
 
 
