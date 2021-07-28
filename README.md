@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nisarg</h1>
 <h3 align="center">I'm a passionate final year student from VNIT, Nagpur.</h3>
-<h3 align="center">To view my Resume click</h3><a href = "https://github.com/nisarg0/Resume/blob/main/Nisarg%20Resume.pdf">here</a>
+<h3 align="center">To view my Resume click <a href = "https://github.com/nisarg0/Resume/blob/main/Nisarg%20Resume.pdf">here</a></h3>
 
 
 ## 🙋‍♂️ About Me
