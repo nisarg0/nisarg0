@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I play volleyball and go to the GYM very often.**
 
-<p align="left"> 
+<p align="center"> 
         <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>
         &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
