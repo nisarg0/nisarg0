@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I play volleyball and go to the GYM very often.**
 
-<p align="center"> 
+<p align="left"> 
         <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>
         &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -42,8 +42,10 @@
 
 
   <br/>
+<p align="center">
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Nisarg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisarg0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+</p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
