@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nisarg</h1>
 <h3 align="center">I'm a passionate final year student from VNIT, Nagpur.</h3>
-<h3 align="center"><a href = "https://github.com/nisarg0/Resume/blob/main/Nisarg%20Resume.pdf">My Resume</a></h3>
+<h3 align="center"><a href = "https://github.com/nisarg0/Resume/blob/main/Nisarg%20Resume.pdf">My Resume</a></h3><div>Icons made by <a href="https://www.flaticon.com/authors/pixel-buddha" title="Pixel Buddha">Pixel Buddha</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 
 ## 🙋‍♂️ About Me
