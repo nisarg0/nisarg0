@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Programming Profile apis](https://github.com/nisarg0/Programming-Profile-Viewer)**
+- 🔭 I’m currently working on **[Interview Deck(Just an idea right now)](https://github.com/Interview-Deck)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
