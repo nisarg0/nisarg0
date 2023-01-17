@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi everyone, I'm Nisarg</h1>
-<h3 align="center">I'm a passionate final year student from VNIT, Nagpur.</h3>
+<h1 align="center">Nisarg Gogate</h1>
+<h3 align="center"> Amazonian </h3>
 <h3 align="center">📄<a href="https://github.com/nisarg0/Resume/blob/main/Nisarg%20Resume.pdf"> My Resume </a> </h3></div>
 
 
