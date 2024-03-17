@@ -2,7 +2,7 @@
 
 <h1 align="center">Nisarg Gogate</h1>
 <h3 align="center"> I'm not a great programmer👨‍💻, I'm just a good programmer with great habits ❤️ </h3>
-<h3 align="center">📄<a href="https://github.com/nisarg0/Resume/blob/main/Nisarg_Gogate_Resume_latest.pdf"> My Resume </a> </h3></div>
+<h3 align="center">📄<a href="https://github.com/nisarg0/Resume/blob/main/Nisarg_Resume.pdf"> My Resume </a> </h3></div>
 
 
 
