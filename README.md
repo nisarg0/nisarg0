@@ -8,13 +8,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Amazon](https://g.co/kgs/xncdFG)**
+- 🔭 I’m currently working on **[Bank Of New York Mellon]([https://g.co/kgs/xncdFG](https://www.bnymellon.com/))**
 
 - 🌱 Love **Data Structures and Algorithms.**
 
-- 📫 How to reach me **nisarggogate212@gmail.com**
+- 📫 How to reach me **nisarggogate@gmail.com**
 
-- ⚡ Fun fact **I love playing badminton and cricket in my free time.**
+- ⚡ Fun fact **I love playing badminton and volleyball in my free time.**
 
 
 
